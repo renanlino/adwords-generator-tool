@@ -1,0 +1,6 @@
+*.csv
+*.xlsx
+*.json
+old/
+__pycache__/
+arquivo/
